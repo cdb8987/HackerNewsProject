@@ -1,3 +1,23 @@
+
+# Description
+This is a simple query site for Hackernews.  You can search hackernews as well as see your previous search history. 
+
+# Tools used
+Javascript, React, Bootstrap, React Router 
+
+# Author
+Charles Brinkman
+<a href="https://www.linkedin.com/in/charlesbrinkman/">LinkedIn</a>
+
+<img src="./AppScreenshot.png">
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
